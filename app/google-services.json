@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "720806164606",
+    "firebase_url": "https://ekantin-2018a.firebaseio.com",
+    "project_id": "ekantin-2018a",
+    "storage_bucket": "ekantin-2018a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720806164606:android:ef631442c443881d",
+        "android_client_info": {
+          "package_name": "com.rid.lat.ekantin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720806164606-8s69lq1lvbcbtjr4hhm43cs01q4e2etq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NLaMcIuDTRA5HPjDi5O1S-YERrOj55Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
