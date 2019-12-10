@@ -5,10 +5,11 @@ splashscreen, loginscreen, mainactivity
 
 <table>
     <tr>
-        <td><img width="200px" src="https://github.com/ridwanharts/Movyou/blob/master/screenshoot/screenshot-2019-12-10_13.27.28.349.png"></td>
-        <td><img width="200px" src="https://github.com/ridwanharts/Movyou/blob/master/screenshoot/screenshot-2019-12-10_13.28.08.026.png"></td>
-        <td><img width="200px" src="https://github.com/ridwanharts/Movyou/blob/master/screenshoot/screenshot-2019-12-10_13.28.15.138.png"></td>
-        <td><img width="200px" src="https://github.com/ridwanharts/Movyou/blob/master/screenshoot/screenshot-2019-12-10_13.29.59.032.png"></td>
+        <td><img width="200px" src="https://github.com/ridwanharts/eKantin/blob/master/screenshoot/screenshot-2019-12-10_14.10.23.628.png"></td>
+        <td><img width="200px" src="https://github.com/ridwanharts/eKantin/blob/master/screenshoot/screenshot-2019-12-10_14.10.26.33.png"></td>
+        <td><img width="200px" src="https://github.com/ridwanharts/eKantin/blob/master/screenshoot/screenshot-2019-12-10_14.10.27.74.png"></td>
+        <td><img width="200px" src="https://github.com/ridwanharts/eKantin/blob/master/screenshoot/screenshot-2019-12-10_14.10.42.661.png"></td>
+        <td><img width="200px" src="https://github.com/ridwanharts/eKantin/blob/master/screenshoot/screenshot-2019-12-10_14.10.46.396.png"></td>
     </tr>
 </table>
 
