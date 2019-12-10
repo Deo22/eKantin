@@ -14,12 +14,10 @@ splashscreen, loginscreen, mainactivity
 
 ## Feature Project
 
-* Menggunakan API themoviedb (https://www.themoviedb.org/)
-* SQLite database untuk menyimpan favourite movie
-* Library Picasso untuk menampilkan gambar
-* Retrofit 2 untuk komunikasi dengan API
-* Fitur share movie
-* Fitur Movie Now Playing, Upcoming, Favourite
+* SplashScreen
+* LoginScreen
+* MainActivity
+* DrawerMenu
 
 
 ```java
