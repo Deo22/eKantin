@@ -29,4 +29,39 @@
     <string name="btn_sign_out">Sign Out</string>
     <string name="lbl_forgot_password">Lupa password ?</string>
     <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_photos">Pesan Makanan</string>
+    <string name="nav_movies">Topup Saldo</string>
+    <string name="nav_notifications">Lihat Pesanan</string>
+    <string name="nav_settings">Sejarah Pesan</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Beranda</item>
+        <item>Pesan Makanan</item>
+        <item>Topup Saldo</item>
+        <item>Lihat Pesanan</item>
+        <item>Sejarah Pesan</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
