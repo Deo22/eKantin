@@ -1,5 +1,5 @@
-# eKantin
-splashscreen, loginscreen, mainactivity
+# E-KANTIN
+Aplikasi pemesanan makanan kantin kampus secara online.
 
 ## Screenshoot
 
